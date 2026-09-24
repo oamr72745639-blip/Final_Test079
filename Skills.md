@@ -10,7 +10,3 @@ Field of Study:Information Technology
 -Problem Solving
 -Programming
 -Data Analysis
-
-# Hobbies
--Reading
--Gaming
